@@ -8,9 +8,10 @@ It blends human trading discipline with structured AI-driven logic to create ada
 
 👤 About the Author
 Active on TradingView
- since 2017, I have shared more than 1,500 public analyses and scripts, earning a reputation for transparency and educational insight in technical and macro-driven analysis.
+https://www.tradingview.com/u/HamadaMark/
+ Since 2017, I have shared more than 1,500 public analyses and scripts, earning a reputation for transparency and educational insight in technical and macro-driven analysis.
 
-My journey in the real markets began in 2008, entering the financial markets in 2013.
+My journey in the real markets began in 2008, when I entered the financial markets in 2013.
 Early milestones include my first Bitcoin buy at $250 and Ethereum at $7, experiences that forged a long-term understanding of market cycles, risk, and trader psychology.
 
 ⚙️ System Background
